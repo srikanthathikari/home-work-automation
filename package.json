@@ -1,0 +1,23 @@
+{
+  "name": "home-work-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srikanthathikari/home-work-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srikanthathikari/home-work-automation/issues"
+  },
+  "homepage": "https://github.com/srikanthathikari/home-work-automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.25.1"
+  }
+}
